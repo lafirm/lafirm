@@ -9,6 +9,5 @@ You can reach me @LinkedIn or @Twitter
 for any tech talks or feel free to give 
 me any advise / tip on how to become a pro in programming.😁 
 
-Marvel fan
-Fav Character - Iron Man (Ex) 🚀
-Fav Character - Loki (Now) 🔮
+Marvel Fan:
+Fav Character - Iron Man (Ex), Loki (Now). 
