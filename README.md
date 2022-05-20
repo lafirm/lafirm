@@ -19,8 +19,8 @@ You can reach me @LinkedIn or @Twitter
 for any tech talks or feel free to give 
 me any advise / tip on how to become a pro in Data Science / ML.😁 
 
-
-**Note to Self:**
-Repository Name: lower-case-with-hyphen
-Coding File Name: lower-case-with-hyphen
-Data File Name: CamelCase
+<br><br>
+**Note to Self:**<br>
+Repository Name: lower-case-with-hyphen<br>
+Coding File Name: lower-case-with-hyphen<br>
+Data File Name: CamelCase<br>
