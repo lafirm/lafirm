@@ -21,7 +21,9 @@ me any advise / tip on how to become a pro in Data Science / ML.😁
 
 <br><br>
 **Note to Self:**<br>
+**Naming Convention**<br>
 Repository Name: lower-case-with-hyphen<br>
 Python Notebook, SQL File Name: lower-case-with-hyphen<br>
 Python File Name: lower_case_with_underscore<br>
 Java, Image, Excel, CSV File Name: CamelCase<br>
+Web development File Name: lowercase<br>
