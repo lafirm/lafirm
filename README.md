@@ -1,7 +1,7 @@
 Hi there! 👋
 
 
-I'm Lafir, a Mechanical Engineer tuning my HP's to become a better Data Analyst and Data Scientist.
+I'm Lafir, an Engineer looking for an oppurtunity to combine my analytical skills with mechanical engineering knowledge.
 
 
 Always a Learner! 🤓
