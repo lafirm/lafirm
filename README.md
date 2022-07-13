@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Lafir</h1>
 <h3 align="center">A passionate engineer from India</h3>
  
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/119313/screenshots/1675522/machine1_2.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lafirm&label=Profile%20views&color=0e75b6&style=flat" alt="lafirm" /> </p>
