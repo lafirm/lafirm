@@ -30,7 +30,7 @@
 
 [![Lafir's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=lafirm&&theme=xcode)](https://github.com/lafirm)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lafirm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lafirm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lafirm&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="lafirm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lafirm&show_icons=true&locale=en&theme=tokyonight" alt="lafirm" /></p>
 
