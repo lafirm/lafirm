@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Walmart Weekly Sales Prediction Model**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Python, SQL, Tableau**
 
-- 💬 Ask me about **Data Analysis, Mechanical Engineering etc.**
+- 💬 Ask me about **Data Analysis, Data Visualization, Automobiles, Project Management**
 
-- ⚡ Fun fact **I am not the only one**
+- ⚡ Fun fact **I am from Earth-42**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
