@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/lafirmm" target="blank"><img src="https://img.shields.io/twitter/follow/lafirmm?logo=twitter&style=for-the-badge" alt="lafirmm" /></a> </p>
 
-- 🔭 I’m currently working on **Walmart Weekly Sales Prediction Model**
+- 🔭 I’m currently working on **Some Cool Projects**
 
-- 🌱 I’m currently learning **Python, SQL, Tableau**
+- 🌱 I’m currently learning **Interesting Technologies**
 
-- 💬 Ask me about **Data Analysis, Data Visualization, Automobiles, Project Management**
+- 💬 Ask me about **anything**
 
-- ⚡ Fun fact **I am from Earth-42**
+- ⚡ Fun fact **I like Loki**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
