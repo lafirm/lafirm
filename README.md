@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/lafirmm" target="blank"><img src="https://img.shields.io/twitter/follow/lafirmm?logo=twitter&style=for-the-badge" alt="lafirmm" /></a> </p>
 
-- 🔭 I’m currently working on **Some Cool Projects**
+- 🔭 I’m currently working on **Some Cool Data Engineering Projects**
 
-- 🌱 I’m currently learning **Interesting Technologies**
+- 🌱 I’m currently learning **Airflow, Databricks, dbt etc.**
 
 - 💬 Ask me about **anything**
 
